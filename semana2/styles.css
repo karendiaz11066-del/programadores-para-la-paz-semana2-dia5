@@ -11,13 +11,13 @@ body {
   }
   
   .contenedor {
-    background-color: white;
+    background-color: rgb(255, 255, 255)55, 255, 255);
     padding: 24px;
     border-radius: 8px;
   }
   
   h1 {
-    font-size: 28px;
+    font-size: 32px;
     margin-bottom: 12px;
   }
   
@@ -52,7 +52,7 @@ body {
   
   button {
     padding: 10px 16px;
-    font-size: 16px;
+    font-size: 23px;
     cursor: pointer;
   }
   
